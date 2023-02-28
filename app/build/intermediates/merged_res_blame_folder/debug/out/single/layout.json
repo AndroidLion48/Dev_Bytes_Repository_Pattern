@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Clarence E Moore\\Downloads\\starter-apps-master\\android-kotlin-fundamentals-starter-apps-master\\RepositoryPattern-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dev_byte.xml",
+        "source": "C:\\Users\\Clarence E Moore\\Downloads\\starter-apps-master\\android-kotlin-fundamentals-starter-apps-master\\RepositoryPattern-Starter\\app\\src\\main\\res\\layout\\fragment_dev_byte.xml"
+    },
+    {
+        "merged": "C:\\Users\\Clarence E Moore\\Downloads\\starter-apps-master\\android-kotlin-fundamentals-starter-apps-master\\RepositoryPattern-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\devbyte_item.xml",
+        "source": "C:\\Users\\Clarence E Moore\\Downloads\\starter-apps-master\\android-kotlin-fundamentals-starter-apps-master\\RepositoryPattern-Starter\\app\\src\\main\\res\\layout\\devbyte_item.xml"
+    }
+]
