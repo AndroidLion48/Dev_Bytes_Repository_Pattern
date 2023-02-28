@@ -1,9 +1,9 @@
-###DevByteRepository - Solution Code
+# DevByteRepository - Solution Code
 ==================================
 
 DevByte application with the Repository Pattern implemented to cache data for persistent data.
 
-#Introduction
+## Introduction
 ------------
 
 This app demonstrates the Repository pattern,
@@ -13,8 +13,9 @@ Repositories act as mediators between different data sources, such as persistent
 models, web services, and caches and the rest of the app.  DevByteRepository app displays a list of DevByte videos. DevByte videos are
 short videos made by the Google Android developer relations team to introduce
 new developer features on Android. 
+![Screenshot 2023-02-27 211157](https://user-images.githubusercontent.com/92341925/221761337-593cc12e-3281-497d-8f85-d22aa93b1ca0.png)
 
-# Summary
+## Summary
 
 - Caching is a process of storing data fetched from a network on a device's storage. Caching lets your app access data when the device is offline, or if your app needs to access the same data again.
 
